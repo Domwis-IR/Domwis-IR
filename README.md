@@ -1,4 +1,26 @@
-### Hi there 👋
+# Jihye Ryu / @Domwis-IR
+
+## I'm interested in... 
+AI solution
+Medical Data Analysis
+Application Development
+
+## Language 
+- Python
+    Web Crawling, Deep Learning Modeling
+    
+- C++
+    Object-Oriented Programming, Data Structure
+    
+- Dart
+    Flutter App project
+
+## Time Line with My Project
+
+<!--
+## Likes
+MARVEL, EDM, Alcohol🍻
+-->
 
 <!--
 **Domwis-IR/Domwis-IR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
