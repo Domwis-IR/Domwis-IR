@@ -6,13 +6,13 @@ Medical Data Analysis
 Application Development
 
 ## Language 
-- Python
+- Python  
     Web Crawling, Deep Learning Modeling
     
-- C++
+- C++  
     Object-Oriented Programming, Data Structure
     
-- Dart
+- Dart  
     Flutter App project
 
 ## Time Line with My Project
