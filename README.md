@@ -7,7 +7,7 @@ Application Development
 
 ## Language 
 - Python  
-    Web Crawling, Deep Learning Modeling
+    Web Crawling, Deep Learning Modeling, Natural Language Processing
     
 - C++  
     Object-Oriented Programming, Data Structure
