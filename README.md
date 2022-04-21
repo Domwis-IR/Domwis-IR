@@ -1,9 +1,9 @@
 # Jihye Ryu / @Domwis-IR
 
 ## I'm interested in... 
-AI solution
-Medical Data Analysis
-Application Development
+- AI solution  
+- Medical Data Analysis  
+- Application Development  
 
 ## Language 
 - Python  
