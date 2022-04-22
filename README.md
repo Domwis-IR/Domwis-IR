@@ -16,7 +16,8 @@
     Flutter App project
 
 ## Time Line with My Project
-- 2022.03 SWC_Capstone_Design  
+- 2022.03 SWC_Capstone_Design
+- 2022.03 DearMyDiary : Service Data Science Project  
 - 2022.03 Petition : KHUDA Conference Project  
 - 2021.11 TDDC73 : Interaction Programming  
 - 2021.04 ML-in-Practice 
