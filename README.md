@@ -25,10 +25,10 @@
 - 2020.07 Bon-Voyage : Trip Route Recommendation Service
 - 2019.11 HashCrawler : Insight from Hash
 
-<!--
+
 ## Likes
-MARVEL, EDM, Alcohol🍻
--->
+MARVEL, EDM, Alcohol🍻, Webtoon
+
 
 <!--
 **Domwis-IR/Domwis-IR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
