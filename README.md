@@ -1,12 +1,12 @@
 # Jihye Ryu / @Domwis-IR
 
-## I'm interested in... 
+## I'm interested in...💙 
 - AI solution  
 - Medical Data Analysis  
 - Image Data Modeling
 - Application Development  
 
-## Language 
+## Language 💻
 - Python  
     Web Crawling, Deep Learning Modeling, Natural Language Processing
     
@@ -16,7 +16,7 @@
 - Dart  
     Flutter App project
 
-## Time Line with My Project
+## 🌟 Time Line with My Project 🌟
 - 2022.03 SWC_Capstone_Design : Decentralized Brain Age Estimation using MRI data
 - 2022.03 DearMyDiary : Service Data Science Project - Sentiment Analysis with Depression detection  
 - 2022.03 Petition : KHUDA Conference Project - What sentiment is in Petition?  
@@ -27,7 +27,7 @@
 - 2019.11 HashCrawler : Insight from Hash - Web Crwaling
 
 
-## Likes
+## Likes 😆
 MARVEL, EDM, Alcohol🍻, Webtoon
 
 
