@@ -18,13 +18,13 @@
 
 ## Time Line with My Project
 - 2022.03 SWC_Capstone_Design : Decentralized Brain Age Estimation using MRI data
-- 2022.03 DearMyDiary : Service Data Science Project  
-- 2022.03 Petition : KHUDA Conference Project  
-- 2021.11 TDDC73 : Interaction Programming  
-- 2021.04 ML-in-Practice 
+- 2022.03 DearMyDiary : Service Data Science Project - Sentiment Analysis with Depression detection  
+- 2022.03 Petition : KHUDA Conference Project - What sentiment is in Petition?  
+- 2021.11 TDDC73 : Interaction Programming - Web/App programming  
+- 2021.04 ML-in-Practice : Deep Learning Data Augmentation & Competition
 - 2021.03 Data-Analysis Capstone : Market Analysis before and after COVID-19
 - 2020.07 Bon-Voyage : Trip Route Recommendation Service
-- 2019.11 HashCrawler : Insight from Hash (Web Crwaling)
+- 2019.11 HashCrawler : Insight from Hash - Web Crwaling
 
 
 ## Likes
