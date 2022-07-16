@@ -2,9 +2,10 @@
 
 ## I'm interested in...💙 
 - AI solution  
-- Medical Data Analysis  
+- Data Analysis  
 - Image Data Modeling
 - Application Development  
+- On Going...
 
 ## Language 💻
 - Python  
