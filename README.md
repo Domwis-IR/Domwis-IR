@@ -28,6 +28,11 @@
 - 2019.11 HashCrawler : Insight from Hash - Web Crwaling
 
 
+## ✨ Time Line with My Life ✨
+- 2021.08 ~ 2022.01 Linköping University in Sweden for Exchange Student
+- 2020.07 ~ 2020.08 Summer SJSU Silicon Valley Software Technology & Innovation Program
+- 2019.03 ~ KyungHee University Software Convergence majoring
+
 ## Likes 😆
 MARVEL, EDM, Alcohol🍻, Webtoon
 
