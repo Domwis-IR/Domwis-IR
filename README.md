@@ -3,7 +3,7 @@
 ## I'm interested in...💙 
 - AI solution  
 - Data Analysis  
-- Image Data Modeling
+- Image Data Deel Learning Modeling
 - Application Development  
 - On Going...
 
@@ -29,6 +29,7 @@
 
 
 ## ✨ Time Line with My Life ✨
+- 2022.09 ~ DeepX Internship, DL Team
 - 2021.08 ~ 2022.01 Linköping University in Sweden for Exchange Student
 - 2020.07 ~ 2020.08 Summer SJSU Silicon Valley Software Technology & Innovation Program
 - 2019.03 ~ KyungHee University Software Convergence majoring
