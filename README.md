@@ -3,7 +3,7 @@
 ## I'm interested in...💙 
 - AI solution  
 - Data Analysis  
-- Image Data Dee Learning Modeling
+- Image Data Deep Learning Modeling
 - Application Development  
 - On Going...
 
