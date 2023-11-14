@@ -4,12 +4,13 @@
 - AI solution  
 - Data Analysis  
 - Image Data Deep Learning Modeling
-- Application Development  
+- Application Development
+- Computer Vision
 - On Going...
 
 ## Language 💻
 - Python  
-    Web Crawling, Deep Learning Modeling, Natural Language Processing
+    Web Crawling, Data Analysis, Deep Learning Modeling, Natural Language Processing, Computer Vision
     
 - C++  
     Object-Oriented Programming, Data Structure
@@ -29,7 +30,7 @@
 
 
 ## ✨ Time Line with My Life ✨
-- 2022.09 ~ DeepX Internship, DL Team
+- 2022.09 ~ 2023.08 DeepX Internship, DL Team
 - 2021.08 ~ 2022.01 Linköping University in Sweden for Exchange Student
 - 2020.07 ~ 2020.08 Summer SJSU Silicon Valley Software Technology & Innovation Program
 - 2019.03 ~ KyungHee University Software Convergence majoring
