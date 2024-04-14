@@ -6,6 +6,8 @@
 - Image Data Deep Learning Modeling
 - Application Development
 - Computer Vision
+- VR/AR
+- Haptics
 - On Going...
 
 ## Language 💻
@@ -18,7 +20,11 @@
 - Dart  
     Flutter App project
 
+- C#
+    Unity Programming
+
 ## 🌟 Time Line with My Project 🌟
+- 2023.09 CalmPilot : Haptic Feedback for Stress Relieve
 - 2022.03 SWC_Capstone_Design : Decentralized Brain Age Estimation using MRI data
 - 2022.03 DearMyDiary : Service Data Science Project - Sentiment Analysis with Depression detection  
 - 2022.03 Petition : KHUDA Conference Project - What sentiment is in Petition?  
@@ -30,6 +36,8 @@
 
 
 ## ✨ Time Line with My Life ✨
+- 2023.09 ~ 2024.01 Undergraduate Internship, Chaoning Zhang's Lab
+- 2022.10 ~ 2023.01 2023 CES K-Startup Supporters
 - 2022.09 ~ 2023.08 DeepX Internship, DL Team
 - 2021.08 ~ 2022.01 Linköping University in Sweden for Exchange Student
 - 2020.07 ~ 2020.08 Summer SJSU Silicon Valley Software Technology & Innovation Program
