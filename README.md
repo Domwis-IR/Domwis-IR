@@ -8,6 +8,7 @@
 - Computer Vision
 - VR/AR
 - Haptics
+- Digital Twin
 - On Going...
 
 ## Language 💻
@@ -15,7 +16,7 @@
     Web Crawling, Data Analysis, Deep Learning Modeling, Natural Language Processing, Computer Vision
     
 - C++  
-    Object-Oriented Programming, Data Structure
+    Object-Oriented Programming, Data Structure, Arduino
     
 - Dart  
     Flutter App project
@@ -24,7 +25,8 @@
     Unity Programming
 
 ## 🌟 Time Line with My Project 🌟
-- 2023.09 CalmPilot : Haptic Feedback for Stress Relieve
+- 2024.05 Haptic-Presenter : Thermal Haptic Feedback for Stress Relieve
+- 2023.09 CalmPilot : Vibrotactile Haptic Feedback for Stress Relieve
 - 2022.03 SWC_Capstone_Design : Decentralized Brain Age Estimation using MRI data
 - 2022.03 DearMyDiary : Service Data Science Project - Sentiment Analysis with Depression detection  
 - 2022.03 Petition : KHUDA Conference Project - What sentiment is in Petition?  
@@ -36,6 +38,7 @@
 
 
 ## ✨ Time Line with My Life ✨
+- 2024.05 ~ 2024.08 Undergraduate Internship, Haptics & Virtual Reality Lab
 - 2023.09 ~ 2024.01 Undergraduate Internship, Chaoning Zhang's Lab
 - 2022.10 ~ 2023.01 2023 CES K-Startup Supporters
 - 2022.09 ~ 2023.08 DeepX Internship, DL Team
